@@ -9,7 +9,7 @@
   <div class="jumbotron" style="background-color:white">
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h2 class="text-center">Hello Everyone Krushna Jagdale Is Here</h2>
+      <h1 class="text-center">KRUSHNA JAGDALE  !!!!!!!! </h1>
       <p class="text-center"> My Web App </p>
   </div>
 </body>
